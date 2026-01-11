@@ -3,7 +3,7 @@ import React from 'react'
 
 const BannerSection = () => {
   return (
-      <section className='h-screen md:max-h-[80vh]'>
+      <section className='my-20'>
           <div>
               <WorldMapComp/>
           </div>

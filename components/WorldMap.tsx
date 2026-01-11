@@ -5,11 +5,11 @@ import { TextFlip } from "./TextFlip";
 
 export function WorldMapComp() {
     return (
-        <div className=" py-40 dark:bg-black bg-black w-full">
+        <div className="pb-10 dark:bg-black bg-black w-full">
             <div className="max-w-7xl mx-auto text-center">
                 <p className="font-bold text-3xl md:text-5xl dark:text-white text-black">
                     Remote{" "}
-                    <span className="text-neutral-400">
+                    <span className="text-blue-400">
                         {"Connectivity".split("").map((word, idx) => (
                             <motion.span
                                 key={idx}
