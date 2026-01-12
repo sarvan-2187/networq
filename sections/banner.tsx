@@ -3,7 +3,7 @@ import React from 'react'
 
 const BannerSection = () => {
   return (
-      <section className='my-20'>
+      <section className='mt-20'>
           <div>
               <WorldMapComp/>
           </div>

@@ -12,7 +12,7 @@ export function HeroButtonOne() {
                 as="button"
                 className="dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2"
             >
-                <Link className="flex gap-1 items-center justify-center" href="/route">Get Started <ArrowUpRight /></Link>
+                <Link className="flex gap-1 items-center justify-center" href="/sign-up">Get Started <ArrowUpRight /></Link>
             </HoverBorderGradient>
         </div>
     );

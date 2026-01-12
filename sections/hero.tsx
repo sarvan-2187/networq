@@ -18,13 +18,14 @@ export function HeroSection() {
 
         {/* Heading */}
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-sans font-semibold leading-tight tracking-tight
-          bg-linear-to-b from-white via-slate-200 to-slate-400
+          bg-linear-to-b from-slate-200 via-slate-400 to-slate-600
           bg-clip-text text-transparent">
-          Seamless Video Calling
+          Effortless
           <br />
-          <span className="bg-linear-to-r from-sky-400 to-blue-200 bg-clip-text text-transparent">
-            at a Serious Quality
-          </span>
+          <span className="bg-linear-to-r from-sky-400 to-blue-200 bg-clip-text text-white/50 text-shadow-md text-shadow-blue-800">
+            Video Conferencing
+          </span><br/>
+          for Everyone
         </h1>
 
         <p className="max-w-xl text-sm md:text-base text-slate-400">
