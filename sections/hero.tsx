@@ -12,7 +12,7 @@ export function HeroSection() {
           bg-blue-500/10 text-blue-200
           border border-blue-500/20
           backdrop-blur-sm">
-          #Networq
+          Works best in desktops !
         </div>
 
         {/* Heading */}
