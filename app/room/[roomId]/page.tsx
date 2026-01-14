@@ -120,5 +120,5 @@ export default function NetworqRoom() {
         );
     }
 
-    return <div ref={containerRef} className="fixed inset-0 bg-black" />;
+    return <div ref={containerRef} className="w-full h-screen bg-black" />;
 }
