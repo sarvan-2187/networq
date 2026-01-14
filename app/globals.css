@@ -141,3 +141,41 @@
   font-weight: 700;
   font-style: normal;
 }
+
+.zego-ui-kit {
+  background-color: #000000 !important;
+  color: #e5e7eb !important;
+}
+
+.zego-ui-kit button {
+  background-color: #2563eb !important;
+  color: white !important;
+  border-radius: 10px;
+}
+
+.zego-ui-kit__control-bar {
+  background: rgba(2, 6, 23, 0.9) !important;
+  backdrop-filter: blur(10px);
+  border-top: 1px solid rgba(59, 130, 246, 0.3);
+}
+
+.zego-ui-kit__panel {
+  background-color: #020617 !important;
+}
+
+.zego-ui-kit svg {
+  color: #93c5fd !important;
+}
+
+.zego-ui-kit__video-view {
+  padding: 0 !important;
+}
+
+.zego-ui-kit__video-container {
+  justify-content: center !important;
+}
+
+.zego-ui-kit__leave-room,
+.zego-ui-kit__leave-room-container {
+  display: none !important;
+}

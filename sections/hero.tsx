@@ -1,4 +1,3 @@
-import React from "react";
 import { BackgroundBeamsWithCollision } from "@/components/ui/background-beams-with-collision";
 import { HeroButtonOne } from "@/components/HeroButtonOne";
 import { HeroButtonTwo } from "@/components/HeroButtonTwo";
@@ -37,6 +36,9 @@ export function HeroSection() {
           <HeroButtonOne />
           <HeroButtonTwo />
         </div>
+        <p className="max-w-xl text-sm md:text-base text-slate-400">
+          No Sign-up Needed, Just Click &amp; Connect!
+        </p>
 
       </div>
     </BackgroundBeamsWithCollision>
