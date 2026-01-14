@@ -21,7 +21,7 @@ export function HeroButtonOne() {
                 onClick={handleStartMeeting}
                 className="cursor-pointer dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2"
             >
-                <span className="flex gap-1 items-center justify-center">
+                <span className="flex gap-1 items-center text-md justify-center">
                     Start Meeting <ArrowUpRight />
                 </span>
             </HoverBorderGradient>
